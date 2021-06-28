@@ -1,0 +1,9 @@
+- hosts: Master
+  roles:
+         - name: "Configuring Master"
+           role: "/root/kube/master"
+
+- hosts: Slave
+  roles: 
+          - name: "Configuring Slave"
+            role: "/root/kube/Slave"

@@ -1,0 +1,7 @@
+# BEGIN ANSIBLE MANAGED BLOCK
+[Master]
+Mater ip ansible_ssh_user=ec2-user ansible_ssh_private_key_file=/root/kube/test.pem
+  
+[Slave]
+Slave IPansible_ssh_user=ec2-user ansible_ssh_private_key_file=/root/kube/test.pem
+# END ANSIBLE MANAGED BLOCK
