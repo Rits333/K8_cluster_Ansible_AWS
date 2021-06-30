@@ -3,7 +3,9 @@ K8 cluster on AWS using Ansible.
 
 <h3>Here I configure the kubernetes cluster on the AWS using Ansible</h3>
 
-<img src="/Images/k1.jpg" width="300" height="150">
+<img src="/Images/k1.jpg" width="300" height="150">  <img src="/Images/Ansible_logo.svg.png" width="300" height="150"> 
+
+<img src="/Images/aws.gif" width="300" height="150">
 
 
 <h4>File Require</h4>
