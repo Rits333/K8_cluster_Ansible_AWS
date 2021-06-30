@@ -3,7 +3,7 @@ K8 cluster on AWS using Ansible.
 
 <h3>Here I configure the kubernetes cluster on the AWS using Ansible</h3>
 
-
+![kubernetes image](/Images/k1.jpg)
 
 
 <h4>File Require</h4>
